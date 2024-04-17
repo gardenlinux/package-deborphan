@@ -1,1 +1,2 @@
 git_src --branch debian/1.7.35 https://salsa.debian.org/debian/deborphan.git
+version_suffix=gardenlinux0
